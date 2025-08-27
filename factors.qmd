@@ -1,6 +1,6 @@
 ---
 title: "Factors"
-output: html_document
+author: "Sean Davis & Lori Kern"
 ---
 
 ## Factors

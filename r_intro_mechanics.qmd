@@ -191,7 +191,7 @@ The R `help()` function takes the name of another function and gives back the R 
 
 ## Resources for Getting Help
 
-There is extensive built-in help and documentation within R. A separate page contains a collection of  [additional resources](further_resources.html).
+There is extensive built-in help and documentation within R. A separate page contains a collection of  [additional resources](additional_resources.html).
 
 If the name of the function or object on which help is sought is known, the following approaches with the name of the function or object will be helpful. For a concrete example, examine the help for the `print` method.
 

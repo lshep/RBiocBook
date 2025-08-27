@@ -108,6 +108,13 @@ resource. Finally, don't forget to ask your colleagues or fellow R users for
 their favorite packages, as they may have insights on which ones best suit your
 specific needs.
 
+### Creating a package
+
+While it may seem overwhelming, creating a package can be fairly simple with the
+assistance of R packages that provide tips and templates. [devtools](https://cran.r-project.org/web/packages/devtools/index.html) and
+[biocthis](https://bioconductor.org/packages/biocthis/) are great starting
+points.
+
 ## Are our dice fair?
 
 Well, let's review our code.
